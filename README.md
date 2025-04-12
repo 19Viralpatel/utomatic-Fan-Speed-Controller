@@ -43,7 +43,7 @@ To replicate or utilize our project:
 
 You can use this project for study purposes but not for business purposes. If you want to use it for business purposes, please take permission from the author otherwise Legal action will be taken.
 
-Contact: divyeshkapadiya25@gmail.com
+Contact: viral19patel.vp@gmail.com
 
 ---
 
